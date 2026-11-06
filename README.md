@@ -22,6 +22,8 @@ To understand sales, profit , customer and discounts on a simulated retail-sales
 3. Products with zero discounts maintained an 18.1% profit margin and aggressive discounts over 10% resulted in a -6.6% net loss. 
 4. East Region: Highest overall sales value at ₹2,71,72,858.
 
+## Screenshots
+<img src="data/Screenshot 2026-11-06 200701.png" width="400px" />
 
 ## Tools:
 DB Browser (SQLite)
