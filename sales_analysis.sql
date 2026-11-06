@@ -23,6 +23,9 @@ JOIN products p ON o.product_id = p.product_id
 GROUP By category
 order by profit_margin DESC;
 
+-- q2 answers which product category has the maximum sales and maximum profit.
+--  Also, it explains maximum sale doesn't necessarily bring higher profit margins.
+
 -- Q3. Sales by region and customer segment (JOIN orders + customers)
 SELECT c.region, c.segment,
 	round(sum(o.sales),0) as total_sales,
@@ -38,6 +41,9 @@ SELECT strftime('%Y-%m', order_date) as month,
 	count(*) as total_order
 FROM orders
 GROUP BY month;
+
+-- Note: The result shows a trend of higher sales around Oct to Dec every year. 
+
 
 -- Q5. Top 10 customers by sales 
 SELECT c.customer_id, c.customer_name, c.city,
@@ -66,6 +72,8 @@ SELECT
 FROM orders
 GROUP BY discount_band
 order by profit_margin DESC;
+
+-- The result clearly indicates that higher discounts affects the profit margin. 
 
 -- Q8. Sub-categories with sales above the average sub-category (HAVING + subquery)
 
@@ -117,5 +125,3 @@ JOIN Products p ON p.product_id = o.product_id
 GROUP BY p.category, p.product_name
 ) WHERE rnk <=3
 ORDER BY category, rnk;
-
-
