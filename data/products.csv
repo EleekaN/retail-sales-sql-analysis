@@ -1,0 +1,81 @@
+product_id,product_name,category,sub_category,list_price,unit_cost
+P001,Chair Model 1,Furniture,Chairs,8180,7129
+P002,Chair Model 2,Furniture,Chairs,4480,3951
+P003,Chair Model 3,Furniture,Chairs,3930,3492
+P004,Chair Model 4,Furniture,Chairs,5530,4770
+P005,Chair Model 5,Furniture,Chairs,7370,6628
+P006,Chair Model 6,Furniture,Chairs,8470,7375
+P007,Chair Model 7,Furniture,Chairs,4040,3442
+P008,Chair Model 8,Furniture,Chairs,5140,4393
+P009,Table Model 1,Furniture,Tables,9380,8112
+P010,Table Model 2,Furniture,Tables,13630,11982
+P011,Table Model 3,Furniture,Tables,13730,12124
+P012,Table Model 4,Furniture,Tables,15910,14154
+P013,Table Model 5,Furniture,Tables,7880,7063
+P014,Table Model 6,Furniture,Tables,9330,8195
+P015,Table Model 7,Furniture,Tables,7090,6169
+P016,Table Model 8,Furniture,Tables,11170,10156
+P017,Bookcase Model 1,Furniture,Bookcases,7720,6856
+P018,Bookcase Model 2,Furniture,Bookcases,7580,6808
+P019,Bookcase Model 3,Furniture,Bookcases,7820,6911
+P020,Bookcase Model 4,Furniture,Bookcases,8750,7805
+P021,Bookcase Model 5,Furniture,Bookcases,11710,10041
+P022,Bookcase Model 6,Furniture,Bookcases,5670,4888
+P023,Bookcase Model 7,Furniture,Bookcases,8220,7309
+P024,Bookcase Model 8,Furniture,Bookcases,8850,7550
+P025,Phone Model 1,Technology,Phones,37400,29322
+P026,Phone Model 2,Technology,Phones,28840,21802
+P027,Phone Model 3,Technology,Phones,8150,6261
+P028,Phone Model 4,Technology,Phones,19810,15673
+P029,Phone Model 5,Technology,Phones,10890,8362
+P030,Phone Model 6,Technology,Phones,17670,14071
+P031,Phone Model 7,Technology,Phones,27980,21690
+P032,Phone Model 8,Technology,Phones,26240,20956
+P033,Accessorie Model 1,Technology,Accessories,880,683
+P034,Accessorie Model 2,Technology,Accessories,2660,2055
+P035,Accessorie Model 3,Technology,Accessories,500,392
+P036,Accessorie Model 4,Technology,Accessories,1550,1209
+P037,Accessorie Model 5,Technology,Accessories,3050,2346
+P038,Accessorie Model 6,Technology,Accessories,1850,1434
+P039,Accessorie Model 7,Technology,Accessories,3300,2672
+P040,Accessorie Model 8,Technology,Accessories,1690,1288
+P041,Printer Model 1,Technology,Printers,19970,15784
+P042,Printer Model 2,Technology,Printers,14310,11161
+P043,Printer Model 3,Technology,Printers,10850,8199
+P044,Printer Model 4,Technology,Printers,7490,5622
+P045,Printer Model 5,Technology,Printers,11640,9178
+P046,Printer Model 6,Technology,Printers,6930,5309
+P047,Printer Model 7,Technology,Printers,17790,13804
+P048,Printer Model 8,Technology,Printers,11020,8650
+P049,Paper Model 1,Office Supplies,Paper,290,195
+P050,Paper Model 2,Office Supplies,Paper,730,493
+P051,Paper Model 3,Office Supplies,Paper,870,626
+P052,Paper Model 4,Office Supplies,Paper,610,410
+P053,Paper Model 5,Office Supplies,Paper,350,249
+P054,Paper Model 6,Office Supplies,Paper,160,114
+P055,Paper Model 7,Office Supplies,Paper,220,154
+P056,Paper Model 8,Office Supplies,Paper,650,470
+P057,Binder Model 1,Office Supplies,Binders,310,215
+P058,Binder Model 2,Office Supplies,Binders,100,70
+P059,Binder Model 3,Office Supplies,Binders,430,299
+P060,Binder Model 4,Office Supplies,Binders,460,311
+P061,Binder Model 5,Office Supplies,Binders,280,201
+P062,Binder Model 6,Office Supplies,Binders,650,437
+P063,Binder Model 7,Office Supplies,Binders,240,165
+P064,Binder Model 8,Office Supplies,Binders,570,393
+P065,Storage Model 1,Office Supplies,Storage,740,499
+P066,Storage Model 2,Office Supplies,Storage,2410,1725
+P067,Storage Model 3,Office Supplies,Storage,3180,2166
+P068,Storage Model 4,Office Supplies,Storage,2590,1869
+P069,Storage Model 5,Office Supplies,Storage,3260,2301
+P070,Storage Model 6,Office Supplies,Storage,2650,1812
+P071,Storage Model 7,Office Supplies,Storage,1670,1158
+P072,Storage Model 8,Office Supplies,Storage,730,495
+P073,Pen Model 1,Office Supplies,Pens,170,120
+P074,Pen Model 2,Office Supplies,Pens,260,179
+P075,Pen Model 3,Office Supplies,Pens,260,179
+P076,Pen Model 4,Office Supplies,Pens,160,115
+P077,Pen Model 5,Office Supplies,Pens,210,152
+P078,Pen Model 6,Office Supplies,Pens,140,101
+P079,Pen Model 7,Office Supplies,Pens,370,264
+P080,Pen Model 8,Office Supplies,Pens,240,167
